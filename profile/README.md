@@ -1,6 +1,9 @@
 <h2>COM-US - 농인 부모와 청인 자녀(CODA) 간 정서적 유대 강화를 위한 AI 기반 양방향 소통 플랫폼 <br></h2>
 <img src="https://github.com/user-attachments/assets/41f165fb-d883-49c2-aea4-1836deb242f8" width="800">
 <br>
+
+### [👉 서비스 소개 영상 보러가기](https://www.youtube.com/watch?v=9WndFtX5_MQ)
+
 <br>
 
 
