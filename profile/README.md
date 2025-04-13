@@ -14,9 +14,10 @@ COM-US는 <b>`농인 부모와 청인 자녀(CODA) 간 정서적 유대 강화�
 이 서비스는 농인 부모와 자녀가 일상에서 자연스럽게 소통하고 정서적으로 연결될 수 있도록 돕는 통합 솔루션을 제공합니다.  <br> <br>
 
 <br>
-<img width="800" alt="스크린샷 2025-03-09 13 25 51" src="https://github.com/user-attachments/assets/30213d3b-4870-4a11-845c-ad984f7ac86d" />
+<img width="800" alt="스크린샷 2025-03-09 13 25 51" src="https://github.com/user-attachments/assets/9591f18d-a76c-4ded-b87d-176435596ab6" />
 <br>
 <br>
+
 
 1️⃣ <b>질문하기 & 받기</b>
 <br>
@@ -26,7 +27,7 @@ COM-US는 <b>`농인 부모와 청인 자녀(CODA) 간 정서적 유대 강화�
 <br>
 
 <br>
-<img width="800" alt="스크린샷 2025-03-09 13 27 47" src="https://github.com/user-attachments/assets/a6fdf8af-5be0-4f47-a410-3df6aa9b8736" />
+<img width="800" alt="스크린샷 2025-03-09 13 27 47" src="https://github.com/user-attachments/assets/a047b65a-a501-4120-b4ae-c8d73ffddf70" />
 <br>
 
 2️⃣ <b>답변하기</b>
@@ -47,9 +48,9 @@ COM-US는 <b>`농인 부모와 청인 자녀(CODA) 간 정서적 유대 강화�
 <br>
 
 <br>
-<img width="800" alt="스크린샷 2025-03-09 05 48 30" src="https://github.com/user-attachments/assets/d5b1ac38-1891-4d65-a685-954618e4d031" />
+<img width="800" alt="스크린샷 2025-03-09 05 48 30" src="https://github.com/user-attachments/assets/3519e290-7652-4611-906a-99f53e0b2aa3" />
 <br>
-<img width="800" alt="스크린샷 2025-03-09 13 23 52" src="https://github.com/user-attachments/assets/dd51bea0-dd5f-40b3-aa6f-42123af65dd1" />
+<img width="800" alt="스크린샷 2025-03-09 13 23 52" src="https://github.com/user-attachments/assets/307223ff-c0d5-45b5-bd42-520a0661cf01" />
 <br><br>
 
 5️⃣ <b>대화 블럭 쌓기</b>
@@ -81,4 +82,4 @@ COM-US는 <b>`농인 부모와 청인 자녀(CODA) 간 정서적 유대 강화�
 
   
 <br>
-<img src="https://github.com/user-attachments/assets/3bce8174-9683-4f22-84b1-9f3d53222ca5" width="800">
+<img src="https://github.com/user-attachments/assets/2020e03e-ab02-4feb-886e-0455abc3011a" width="800">
